@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @track001 a.k.a. Tiana S.
 - 👀 I’m interested in ... Aerospace and Software Engineering.
-- 🌱 I’m currently learning ... SQL, Python, and CAD.
+- 🌱 I’m currently learning ... SQL, Fluid Dynamics, and Python.
 - 💞️ I’m looking to collaborate on ... research projects.
 - 📫 How to reach me ... message me!
 
