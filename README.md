@@ -7,7 +7,7 @@
 
 - If you're here to view my projects, continue reading!
 
-# Non-Academic Featured Projects:
+# Featured Projects:
 See the project titles and hierarchy below.
 - #### API: CragWeather CLI Application
 - #### Encryption: SecureDMF GUI Application
