@@ -17,7 +17,7 @@ See the project titles and hierarchy below.
 ### Detailed Project Information:
 - #### API: CragWeather CLI Application
 - ##### Categories: Python, Rest API (HTTP GET requests), JSON parsing, Data Manipulation, User-Defined Thresholds
-  - Developed a Python program that utilizes multiple data sources, including the OpenWeather API, Mountain Project, and the GeoDomain database, to provide accurate weather forecasts for climbing areas in Colorado. Integrated data from 50 climbing areas and generated forecasts with an average accuracy rate of 90%.
+  - Developed a Python program that utilizes multiple data sources, including the OpenWeather API, Mountain Project, and the GeoDomain database, to provide accurate weather forecasts for climbing areas in Colorado. Integrated data from 60+ climbing areas and generated forecasts with an average accuracy rate of 90%.
   - Implemented functionality to retrieve real-time weather conditions, including temperature, wind speed, precipitation, and visibility, using the OpenWeather API. Achieved an average response time of 0.5 seconds for weather data retrieval, ensuring up-to-date and reliable information.
   - Utilized the GeoDomain database to obtain precise ZIP codes associated with each climbing area, enabling accurate weather data retrieval from the OpenWeather API. Achieved a 99% accuracy rate in ZIP code matching, ensuring precise weather forecasts specific to each climbing location.
   - Implemented an ability to customize climbing conditions based on temperature range, humidity, and wind speeds. Provided users with customizable options and achieved a 95% satisfaction rate in meeting personalized climbing condition preferences.
