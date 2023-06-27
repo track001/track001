@@ -1,6 +1,6 @@
 ## Introduction
 - 👋 Hi, I’m @track001 a.k.a. Tiana S.
-- 👀 I’m interested in ... Aerospace, SW Engineering, Technical Documentation, Litigation, and Systems Engineering.
+- 👀 I’m interested in ... Aerospace, SW Engineering, Cybersecurity, Technical Documentation, Litigation, and Systems Engineering.
 - 🌱 I’m currently learning ... SQL, JavaScript, and Python.
 - 💞️ I’m looking to collaborate on ... research projects or entry-level positions.
 - 📫 How to reach me ... message me!
