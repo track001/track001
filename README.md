@@ -29,7 +29,7 @@ See the project titles and hierarchy below.
     It periodically performs actions such as resetting, purchasing game dimensions, 
     sacrificing, and maximizing certain resources.
 
-    This update emphasizes player choices, although early-game progression can still benefit from automation as seen here.
+    The newest update (The Reality Update) emphasizes player choices, although early-game progression can still benefit from automation as seen here.
 
     Instructions:
     1. Make sure this script is loaded in the game's environment.
