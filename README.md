@@ -32,7 +32,7 @@ See the project titles and hierarchy below.
     Instructions:
     1. Make sure this script is loaded in the game's environment.
     2. Adjust the timing and actions according to your game's mechanics.
-
+  */
 
   // Define a repeating interval for automation
   setInterval(() => {
