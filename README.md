@@ -25,9 +25,11 @@ See the project titles and hierarchy below.
     Date: November 2023
 
     Description:
-    This script automates certain actions in an idle game on Steam.
+    This script automates certain actions in an idle game on the Steam client.
     It periodically performs actions such as resetting, purchasing game dimensions, 
     sacrificing, and maximizing certain resources.
+
+    This update emphasizes player choices, although early-game progression can still benefit from automation as seen here.
 
     Instructions:
     1. Make sure this script is loaded in the game's environment.
