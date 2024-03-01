@@ -20,7 +20,7 @@ See the project titles and hierarchy below.
 
   ```js
   /*
-    AntiMatter Dimensions Automation Script
+    Antimatter Dimensions Automation Script
     Author: Ti Schwarz
     Date: November 2023
 
