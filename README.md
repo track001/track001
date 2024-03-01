@@ -70,7 +70,13 @@ See the project titles and hierarchy below.
 - ##### Categories: Microcontroller, IMU sensors, Matlab, Python, Soldering, Technical Reviews, Embedded Systems, ArduinoC
   - Implemented onboard data storage capabilities using Arduino microcontrollers for efficient and reliable data collection during experiments. Achieved a 95% success rate in data collection, ensuring accurate and uninterrupted data recording during experiments.
   - Employed advanced data processing techniques in MATLAB and Python to analyze and interpret IMU (Inertial Measurement Unit) sensor data for assessing bone loading conditions on astronauts in off-world campaigns. Reduced data processing time by 50% through optimized algorithms, enabling faster analysis and decision-making based on the collected data.
-  - Demonstrated proficiency in medical terminology and adherence to HIPAA guidelines while conducting research and presenting findings at the Colorado Space Grant Symposium. Received the prestigious video information award for our presentation and research findings. Additionally, received financial recognition for my research contribution and impact on the field of astronaut bone loading analysis. 
+  - Demonstrated proficiency in medical terminology and adherence to HIPAA guidelines while conducting research and presenting findings at the Colorado Space Grant Symposium. Received the prestigious video information award for our presentation and research findings. Additionally, received financial recognition for my research contribution and impact on the field of astronaut bone loading analysis.
+  - An IMU, or Inertial Measurement Unit, is a sensor module that integrates multiple sensors such as accelerometers (measuring linear acceleration), gyroscopes (measuring angular velocity), and sometimes magnetometers (measuring magnetic field strength) to measure and report an object's orientation, angular velocity, and acceleration with respect to an inertial reference frame.
+
+
+
+
+
 
 - #### Full Stack Application: TechOdyssey
 - ##### Categories: CI/CD, Bootstrap/CSS, Ruby on Rails MVC, Devise, Heroku, SimpleCov, Agile, CircleCI, Docker, Raspberry Pi Zero
