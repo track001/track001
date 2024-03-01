@@ -10,9 +10,9 @@
 # Featured Projects:
 See the project titles and hierarchy below.
 - #### API: CragWeather CLI Application
-- #### Encryption: SecureDMF GUI Application
+- #### AES Encryption: SecureDMF GUI Application
 - #### Arduino Microcontroller: IMU-OsteoSuit - Examining Bone Health in Microgravity
-- #### Full Stack Application: TechOdyssey
+- #### Full Stack Application: TechOdyssey in an Agile Environment
 
 - # Non-Featured Projects:
 - Autonnomous Vehicle Simulations using TensorFlow
