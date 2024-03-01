@@ -16,7 +16,7 @@ See the project titles and hierarchy below.
 
 - # Non-Featured Projects:
 - Autonnomous Vehicle Simulations using TensorFlow
-- JavaScript Idler for a game on Steam
+- JavaScript Idler for a game on Steam (listed is an example, others exist):
 
   ```js
   /*
