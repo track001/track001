@@ -14,6 +14,43 @@ See the project titles and hierarchy below.
 - #### Arduino Microcontroller: IMU-OsteoSuit - Examining Bone Health in Microgravity
 - #### Full Stack Application: TechOdyssey
 
+- # Non-Featured Projects:
+- Autonnomous Vehicle Simulations using TensorFlow
+- JavaScript Idler for a game on Steam
+
+  ```js
+  /*
+    AntiMatter Dimensions Automation Script
+    Author: Ti Schwarz
+    Date: November 2023
+
+    Description:
+    This script automates certain actions in an idle game on Steam.
+    It periodically performs actions such as resetting, purchasing game dimensions, 
+    sacrificing, and maximizing certain resources.
+
+    Instructions:
+    1. Make sure this script is loaded in the game's environment.
+    2. Adjust the timing and actions according to your game's mechanics.
+
+
+  // Define a repeating interval for automation
+  setInterval(() => {
+      // Reset the game (if necessary)
+      softReset(0);
+    
+    // Purchase one unit of a game dimension
+    buyOneDimension(1);
+    
+    // Check if the sacrifice boost is sufficient, then perform a sacrifice
+    if (calcSacrificeBoost() >= 2) 
+        sacrifice();
+    
+    // Click on the "max all" button to maximize certain resources
+    document.getElementById("maxall").click();
+  }, 100); // Repeat actions every 100 milliseconds (1/10th of a second)
+
+
 ### Detailed Project Information:
 - #### API: CragWeather CLI Application
 - ##### Categories: Python, Rest API (HTTP GET requests), JSON Parsing, Data Manipulation, User-Defined Thresholds
