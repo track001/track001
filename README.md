@@ -1,5 +1,5 @@
 ## Hi, I’m Tiana Schwarz 👋
-Sustainment Cyber Test Engineer • Junior Software Engineer • Technical Writer
+Sustainment Cyber Test Engineer • Junior Software Engineer • Technical Writer • Climber
 ![Ti climbing outside](articlephoto_climbing1.jpg)
 
 
@@ -13,12 +13,17 @@ My background spans **MILSATCOM sustainment testing**, **DoD cybersecurity compl
   Automating STIG compliance verification and streamlining configuration validation for hardening government systems.  
   Specialized in PowerShell automation, XML vulnerability mapping, and cross-functional test documentation.
 
-- **Systems Migration Internship (Orchard Alliance)**  
+- **🧩 Systems Migration Internship (Orchard Alliance)**  
   Migrated legacy financial databases to cloud systems using SQL + Python + C.  
   Coordinated weekly sprints across time zones and led User Acceptance Testing to align dev output with stakeholder intent.
 
-- **Junior Software Engineering and Indie Video Game Projects**  
-  Designing interactive tools and UIs that simplify complex processes - blending engineering logic with clean presentation.
+### 💻 Junior Software Engineering and Indie Game Projects
+Designing interactive tools and UIs that simplify complex processes - blending engineering logic with clean presentation. Experienced in **Unity** development (including VR prototyping from my VR developer contract) and proficient in **front-end scripting, PowerShell, and automation pipelines**.
+
+### 🛡️ Web Services & IT
+- **UCCS Office of Information Technology / Web Services** - Supported and maintained university-scale systems for students and faculty. Developed responsive interfaces, debugged live server integrations, and optimized accessibility and UX compliance for institutional web applications.  
+- **Telstra Infrastructure & Network Operations** - Contributed to enterprise-level network and IT documentation projects, performing system validation, service configuration checks, and user experience testing for distributed teams. Focused on process automation and efficient workflow integration across large-scale networks.
+
 
 ---
 
