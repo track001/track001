@@ -35,7 +35,7 @@ My background spans **MILSATCOM sustainment testing**, **DoD cybersecurity compl
 > Demo the live SOP app here:  
 > [**Springs Climbing Center - Operations Hub**](https://2rfr8h.csb.app/)
 
-This project merges **front-end design**, **PowerShell backend logic**, and **technical writing**, presenting complex operational automation as an accessible, well-documented interface.
+This project merges front-end design, PowerShell backend logic, and technical writing, inspired by the precision and clarity of Stripe’s developer documentation; often cited as a gold standard in technical writing. It reflects my ongoing goal to achieve that same level of accessibility, elegance, and technical rigor in every interface I design or document!
 
 ---
 
@@ -49,9 +49,9 @@ This project merges **front-end design**, **PowerShell backend logic**, and **te
 
 
 ### 🌍 Community Involvement
-- **L2 USA Climbing Coach** - Coach and mentor at Springs Climbing Center; founded the UCCS Collegiate Climbing Team and led athletes to multiple podium placements at national-level comps.  
+- **L2 USA Climbing Coach** - Coach and mentor at Springs Climbing Center; founded the UCCS Collegiate Climbing Team and led athletes to multiple podium placements at national-level competitions. I went on to win the **2024 intermediate collegiate national titles** in both bouldering and sport, while (still) navigating a long recovery from knee surgeries and finger injuries. Now an athlete for [Escape Climbing](https://escapeclimbing.com/pages/copy-of-about-escape-climbing?srsltid=AfmBOopCtu2FmznXS6drtF53Vs65rYkdEGv88gOUFba8Y-1mH05anrvY), I proudly stand behind their values of accessibility, craftsmanship, and community-driven design. 
 - **CSBR Alumni Mentor** - Active mentor through the Colorado Space Business Roundtable, supporting early-career engineers navigating aerospace, cyber, and systems roles.  
-- **Colorado Space Grant Consortium Awardee** - Recognized for the IMU-OsteoSuit project analyzing astronaut bone health; presented findings at the CO Space Grant Symposium.  
+- **Colorado Space Grant Consortium Scholarship Awardee** - Recognized for the IMU-OsteoSuit project analyzing astronaut bone health; presented findings at the CO Space Grant Symposium.  
 - **STEM Outreach & Technical Writing** - Develops educational SOPs and documentation templates for staff and student use, translating complex software and cyber workflows into accessible formats for wider adoption.  
 - **Community-Driven Developer** - Builds web tools that bridge front-end design, engineering, and documentation - most recently the *SCC Operations SOP Hub*, enabling non-technical climbing staff to interact with automated PowerShell systems through a browser interface.
 
