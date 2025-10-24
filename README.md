@@ -9,7 +9,7 @@ My background spans **MILSATCOM sustainment testing**, **DoD cybersecurity compl
 ---
 
 ### 🛰️ Current Focus (Security+ Certification and Active SECRET Clearance)
-- **Sustainment Test Engineering (Space Systems Command – MILSATCOM)**  
+- **Sustainment Test Engineering w/ a Cyber emphasis (Space Systems Command – MILSATCOM)**  
   Automating STIG compliance verification and streamlining configuration validation for hardening government systems.  
   Specialized in PowerShell automation, XML vulnerability mapping, and cross-functional test documentation.
 
