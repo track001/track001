@@ -1,96 +1,78 @@
-## Introduction
-- 👋 Hi, I’m @track001 a.k.a. Tiana S.
-- 👀 I’m interested in ... Aerospace, SW Engineering, Cybersecurity, Technical Documentation, Litigation, and Systems Engineering.
-- 🌱 I’m currently learning ... REST API, Raspberry Pi, AES Encryption, SQL, C#, JavaScript, and Python.
-- 💞️ I’m looking to collaborate on ... research projects or entry-level positions.
-- 📫 How to reach me ... message me!
-
-- If you're here to view my projects, continue reading!
-
-# Featured Projects:
-See the project titles and hierarchy below.
-- #### API: CragWeather CLI Application
-- #### AES Encryption: SecureDMF GUI Application
-- #### Arduino Microcontroller: IMU-OsteoSuit - Examining Bone Health in Microgravity
-- #### Full Stack Application: TechOdyssey in an Agile Environment
-
-- # Non-Featured Projects:
-- Autonnomous Vehicle Simulations using TensorFlow
-- Game Development using GameMaker Studio
-- JavaScript Idler for a game on Steam (listed is an example, others exist):
-
-  ```js
-  /*
-    Antimatter Dimensions Automation Script
-    Author: Ti Schwarz
-    Date: November 2023
-
-    Description:
-    This script automates certain actions in an idle game on the Steam client.
-    It periodically performs actions such as resetting, purchasing game dimensions, 
-    sacrificing, and maximizing certain resources.
-
-    The newest update (The Reality Update) emphasizes player choices, although early-game progression can still benefit from automation as seen here.
-
-    Instructions:
-    1. Make sure this script is loaded in the game's environment.
-    2. Adjust the timing and actions according to your game's mechanics.
-  */
-
-  // Define a repeating interval for automation
-  setInterval(() => {
-      // Reset the game (if necessary)
-      softReset(0);
-    
-    // Purchase one unit of a game dimension
-    buyOneDimension(1);
-    
-    // Check if the sacrifice boost is sufficient, then perform a sacrifice
-    if (calcSacrificeBoost() >= 2) 
-        sacrifice();
-    
-    // Click on the "max all" button to maximize certain resources
-    document.getElementById("maxall").click();
-  }, 100); // Repeat actions every 100 milliseconds (1/10th of a second)
+## Hi, I’m Tiana Schwarz 👋
+Sustainment Cyber Test Engineer • Junior Software Engineer • Technical Writer
+![Ti climbing outside](articlephoto_climbing1.jpg)
 
 
-### Detailed Project Information:
-- #### API: CragWeather CLI Application
-- ##### Categories: Python, Rest API (HTTP GET requests), JSON Parsing, Data Manipulation, User-Defined Thresholds
-  - Developed a Python program that utilizes multiple data sources, including the OpenWeather API, Mountain Project, and the GeoDomain database, to provide accurate weather forecasts for climbing areas in Colorado. Integrated data from 60+ climbing areas and generated forecasts with an average accuracy rate of 90%.
-  - Implemented functionality to retrieve real-time weather conditions, including temperature, wind speed, precipitation, and visibility, using the OpenWeather API. Achieved an average response time of 0.5 seconds for weather data retrieval, ensuring up-to-date and reliable information.
-  - Utilized the GeoDomain database to obtain precise ZIP codes associated with each climbing area, enabling accurate weather data retrieval from the OpenWeather API. Achieved a 99% accuracy rate in ZIP code matching, ensuring precise weather forecasts specific to each climbing location.
-  - Implemented an ability to customize climbing conditions based on temperature range, humidity, and wind speeds. Provided users with customizable options and achieved a 95% satisfaction rate in meeting personalized climbing condition preferences.
-  
-- #### Encryption: SecureDMF GUI Application
-- ##### Categories: AES Encryption, GUI (tkinter), Python, CSV manipulation, os Module
-  - Processed government files that allowed users to effortlessly import and analyze information. Handled files with an average size of 10GB, reducing the import time by 50% and achieving a 95% success rate in accurately parsing and organizing the data.
-  - Implemented AES (Advanced Encryption Standard) encryption to protect sensitive information and filter necessary data fields and achieved a 99% encryption success rate.
-  - Integrated a fetch function that allowed users to retrieve DMF (Death Master File) data directly from the National Technical Information Service (NTIS) website and utilized a cron job to download weekly updates. Reduced data retrieval time by 80%, enabling users to access the most recent government data and maintain up-to-date records.
-  - Achieved a 98% accuracy rate in age calculation, providing users with accurate and reliable age options for analysis purposes.
-  
-- #### Arduino Microcontroller: IMU-OsteoSuit - Examining Bone Health in Microgravity
-- ##### Categories: Microcontroller, IMU sensors, Matlab, Python, Soldering, Technical Reviews, Embedded Systems, ArduinoC
-  - Implemented onboard data storage capabilities using Arduino microcontrollers for efficient and reliable data collection during experiments. Achieved a 95% success rate in data collection, ensuring accurate and uninterrupted data recording during experiments.
-  - Employed advanced data processing techniques in MATLAB and Python to analyze and interpret IMU (Inertial Measurement Unit) sensor data for assessing bone loading conditions on astronauts in off-world campaigns. Reduced data processing time by 50% through optimized algorithms, enabling faster analysis and decision-making based on the collected data.
-  - Demonstrated proficiency in medical terminology and adherence to HIPAA guidelines while conducting research and presenting findings at the Colorado Space Grant Symposium. Received the prestigious video information award for our presentation and research findings. Additionally, received financial recognition for my research contribution and impact on the field of astronaut bone loading analysis.
-  - An IMU, or Inertial Measurement Unit, is a sensor module that integrates multiple sensors such as accelerometers (measuring linear acceleration), gyroscopes (measuring angular velocity), and sometimes magnetometers (measuring magnetic field strength) to measure and report an object's orientation, angular velocity, and acceleration with respect to an inertial reference frame.
+I bridge systems engineering, software development, and technical documentation.  
+My background spans **MILSATCOM sustainment testing**, **DoD cybersecurity compliance**, **cloud migration**, and **front-end design** - building solutions that are functional, maintainable, and clearly documented for both engineers and non-technical users.
+
+---
+
+### 🛰️ Current Focus (Security+ Certification and Active SECRET Clearance)
+- **Sustainment Test Engineering (Space Systems Command – MILSATCOM)**  
+  Automating STIG compliance verification and streamlining configuration validation for hardening government systems.  
+  Specialized in PowerShell automation, XML vulnerability mapping, and cross-functional test documentation.
+
+- **Systems Migration Internship (Orchard Alliance)**  
+  Migrated legacy financial databases to cloud systems using SQL + Python + C.  
+  Coordinated weekly sprints across time zones and led User Acceptance Testing to align dev output with stakeholder intent.
+
+- **Junior Software Engineering and Indie Video Game Projects**  
+  Designing interactive tools and UIs that simplify complex processes - blending engineering logic with clean presentation.
+
+---
+
+### 💻 2025's Featured Project: SCC Finals Web App  
+**Built for Springs Climbing Center**, this browser-based SOP hub documents and demonstrates event-ready automation scripts.
+
+- React + TypeScript frontend with embedded PowerShell logic  
+- Dynamic read-only viewers for scripts like  
+  - 🧮 *Drawer Counter v2*  
+  - 🧭 *Finals Projector*  
+  - ⏱️ *Finals Timer v6.4* (Drift-Free + ±10 s Adjust + Audio Cues)  
+- Fully hosted in-browser for staff use - no local install or credentials required  
+
+> Demo the live SOP app here:  
+> [**Springs Climbing Center - Operations Hub**](https://2rfr8h.csb.app/)
+
+This project merges **front-end design**, **PowerShell backend logic**, and **technical writing**, presenting complex operational automation as an accessible, well-documented interface.
+
+---
+
+### 🧩 Interests
+- Front-End Design & UX for technical environments  
+- Technical Documentation & Web SOP systems  
+- Systems Automation (PowerShell / Python / React)  
+- Climbing 🧗‍♀️ + Community Engineering  
+
+---
 
 
+### 🌍 Community Involvement
+- **L2 USA Climbing Coach** - Coach and mentor at Springs Climbing Center; founded the UCCS Collegiate Climbing Team and led athletes to multiple podium placements at national-level comps.  
+- **CSBR Alumni Mentor** - Active mentor through the Colorado Space Business Roundtable, supporting early-career engineers navigating aerospace, cyber, and systems roles.  
+- **Colorado Space Grant Consortium Awardee** - Recognized for the IMU-OsteoSuit project analyzing astronaut bone health; presented findings at the CO Space Grant Symposium.  
+- **STEM Outreach & Technical Writing** - Develops educational SOPs and documentation templates for staff and student use, translating complex software and cyber workflows into accessible formats for wider adoption.  
+- **Community-Driven Developer** - Builds web tools that bridge front-end design, engineering, and documentation - most recently the *SCC Operations SOP Hub*, enabling non-technical climbing staff to interact with automated PowerShell systems through a browser interface.
 
+---
 
+### 🧠 Earlier Projects (Pre-Industry)
+Before transitioning fully into the STEM industry, I completed several independent and academic projects that shaped my approach to problem-solving and automation:
 
+- **CragWeather CLI (Python / REST API / JSON)** – Combined OpenWeather and Mountain Project APIs to generate live climbing forecasts for 60+ Colorado areas.  
+- **SecureDMF GUI (AES Encryption / Python / Tkinter)** – Encrypted and parsed 10 GB+ federal datasets with AES, integrating NTIS fetch automation for weekly DMF updates.  
+- **IMU-OsteoSuit (ArduinoC / MATLAB / Embedded Systems)** – Captured IMU sensor data to study bone-loading patterns in microgravity environments; awarded by the CO Space Grant Consortium.  
+- **TechOdyssey Full-Stack App (Ruby on Rails / Docker / CircleCI)** – Deployed a secure full-stack web portfolio using CI/CD principles; later re-hosted on Raspberry Pi for 99% uptime.  
+- **Automation Scripts & Micro Projects** – From autonomous TensorFlow vehicle simulations to a JavaScript idle-game automation suite - early explorations that built my foundation in logic, iteration, and applied scripting.
 
-- #### Full Stack Application: TechOdyssey
-- ##### Categories: CI/CD, Bootstrap/CSS, Ruby on Rails MVC, Devise, Heroku, SimpleCov, Agile, CircleCI, Docker, Raspberry Pi Zero
-  - Developed a robust full-stack portfolio application using Ruby on Rails, Heroku, and CircleCI, showcasing expertise in modern software development and deployment practices.
-  - Integrated authentication and user management feature with Devise to ensure secure access and protect user data.
-  - Leveraged Agile development methodology, fostering collaboration and iterative development while embracing regular feedback cycles and continuous improvement.
-  - Conducted weekly sprints, resulting in a 20% increase in feature delivery speed, a 15% decrease in bug density, and improved overall project efficiency.
-  - Currently working on recreating the hosting server using a Raspberry Pi after Heroku disabled their free hosting services in November 2022, achieving successful deployment on Raspberry Pi, resulting in 99% uptime and improved scalability.
-  - Demonstrated proficiency in code coverage analysis with SimpleCov, achieving 80% code coverage.
+---
 
-<!---
-track001/track001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔗 Connect
+- [LinkedIn](https://www.linkedin.com/in/tschwarz001/)  
+- [GitHub](https://github.com/track001)  
+- [Portfolio / SOP Demo](https://2rfr8h.csb.app/)
+
+---
+
+> “The pursuit of today.”
