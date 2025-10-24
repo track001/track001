@@ -18,7 +18,7 @@ My background spans **MILSATCOM sustainment testing**, **DoD cybersecurity compl
   Coordinated weekly sprints across time zones and led User Acceptance Testing to align dev output with stakeholder intent.
 
 ### 💻 Junior Software Engineering and Indie Game Projects
-Designing interactive tools and UIs that simplify complex processes - blending engineering logic with clean presentation. Experienced in **Unity** development (including VR prototyping from my VR developer contract) and proficient in **front-end scripting, PowerShell, and automation pipelines**.
+- Designing interactive tools and UIs that simplify complex processes - blending engineering logic with clean presentation. Experienced in **Unity** development (including VR prototyping from my VR developer contract) and proficient in **front-end scripting, PowerShell, and automation pipelines**.
 
 ### 🛡️ Web Services & IT
 - **UCCS Office of Information Technology / Web Services** - Supported and maintained university-scale systems for students and faculty. Developed responsive interfaces, debugged live server integrations, and optimized accessibility and UX compliance for institutional web applications.  
