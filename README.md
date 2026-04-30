@@ -1,5 +1,5 @@
 ## Hi, I’m Tiana Schwarz 👋
-Sustainment Cyber Test Engineer • Junior Software Engineer • Technical Writer • Climber
+Sustainment Cyber Test Engineer • Junior Software Engineer • Technical Writer • Climber, Coach, and Routesetter
 ![Ti climbing outside](articlephoto_climbing1.jpg)
 
 
