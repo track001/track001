@@ -41,6 +41,15 @@ Includes:
 
 ---
 
+## Volunteering in Colorado Springs
+
+A collection of volunteer opportunities and community organizations throughout Colorado Springs that I've researched, volunteered with, or recommend. This guide focuses on organizations addressing homelessness, healthcare access, food insecurity, and support for older adults.
+
+Whether you're looking for a one-time opportunity or a recurring place to serve, my goal is to make it easier to find ways to get involved in the local community.
+- 🔗 Repository: https://github.com/track001/VolunteeringinCOS
+
+---
+
 ### 🛰️ Current Focus (Security+ Certification and Active SECRET Clearance)
 
 - **Sustainment Test Engineering w/ a Cyber emphasis (Space Systems Command – MILSATCOM)**  
