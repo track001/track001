@@ -203,8 +203,28 @@ It includes:
 > [**View / Copy Resume Template →**](https://www.overleaf.com/read/mdwcckpyqxxb#1f3aca)
 
 [![Overleaf Resume Template](https://img.shields.io/badge/Overleaf-Resume%20Template-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/read/mdwcckpyqxxb#1f3aca)
+---
+
+## 📄 Resumes
+
+I maintain separate resumes for my technical/cyber work and my work in climbing, coaching, and routesetting.
+
+### 🛰️ Cyber & Engineering Resume
+Cyber mission analysis, sustainment test engineering, cybersecurity, software, automation, and technical writing.
+
+[**View Resume →**](./resumes/Tiana-Schwarz-Technical-Resume.pdf)  
+[**Download PDF**](./resumes/Tiana-Schwarz-Technical-Resume.pdf?raw=1)
+
+### 🧗 Routesetting & Coaching Resume
+USA Climbing routesetting, coaching, competition operations, youth development, and para climbing education.
+
+[**View Resume →**](./resumes/Tiana-Schwarz-Routesetting-Resume.pdf)  
+[**Download PDF**](./resumes/Tiana-Schwarz-Routesetting-Resume.pdf?raw=1)
 
 ---
+---
+
+
 
 ## 🤝 Volunteering in Colorado Springs
 
