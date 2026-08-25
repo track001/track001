@@ -209,22 +209,23 @@ It includes:
 
 I maintain separate resumes for my technical/cyber work and my work in climbing, coaching, and routesetting.
 
-### 🛰️ Cyber & Engineering Resume
-Cyber mission analysis, sustainment test engineering, cybersecurity, software, automation, and technical writing.
+### 🛰️ Cyber & Engineering
 
-[**View Resume →**](./resumes/Tiana-Schwarz-Technical-Resume.pdf)  
-[**Download PDF**](./resumes/Tiana-Schwarz-Technical-Resume.pdf?raw=1)
+Mission Analysis • Cybersecurity • Test Engineering • Automation • Technical Writing
 
-### 🧗 Routesetting & Coaching Resume
-USA Climbing routesetting, coaching, competition operations, youth development, and para climbing education.
+[**Preview Technical Resume →**](./resumes/Tiana-Schwarz-Technical-Resume.pdf)
 
-[**View Resume →**](./resumes/Tiana-Schwarz-Routesetting-Resume.pdf)  
-[**Download PDF**](./resumes/Tiana-Schwarz-Routesetting-Resume.pdf?raw=1)
+[**Download Technical Resume ↓**](https://raw.githubusercontent.com/track001/track001/main/resumes/Tiana-Schwarz-Technical-Resume.pdf)
+
+### 🧗 Routesetting & Coaching
+
+USAC L1 Routesetting • L2 Coaching • Competition Operations • Para & Youth Climbing
+
+[**Preview Routesetting Resume →**](./resumes/Tiana-Schwarz-Routesetting-Resume.pdf)
+
+[**Download Routesetting Resume ↓**](https://raw.githubusercontent.com/track001/track001/main/resumes/Tiana-Schwarz-Routesetting-Resume.pdf)
 
 ---
----
-
-
 
 ## 🤝 Volunteering in Colorado Springs
 
