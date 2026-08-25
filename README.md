@@ -50,14 +50,18 @@ Whether you're looking for a one-time opportunity or a recurring place to serve,
 
 ---
 
-### 🛰️ Current Focus (Security+ Certification and Active SECRET Clearance)
+### 🛰️ Current Focus (Security+ Certification and Active TOP SECRET Clearance)
 
-- **Sustainment Test Engineering w/ a Cyber emphasis (Space Systems Command – MILSATCOM)**  
-  Automating STIG compliance verification and streamlining configuration validation for hardening government systems.  
-  Specialized in PowerShell automation, XML vulnerability mapping, and cross-functional test documentation.
+- **📡Mission Relevant Terrain - Cyber (MRT-C) / Mission Analysis (USSPACECOM)**  
+  Supporting cyber mission analysis by identifying and assessing mission-relevant systems, dependencies, and cyber terrain across mission threads.  
+  Developing mission-focused analysis to help characterize cyber risk, critical dependencies, and potential impacts to mission execution.
+
+- **🛡️Sustainment Test Engineering w/ a Cyber Emphasis (Space Systems Command - MILSATCOM)**  
+  Automated STIG compliance verification and streamlined configuration validation for hardening government systems.  
+  Specialized in PowerShell automation, XML vulnerability mapping, cybersecurity testing, and cross-functional test documentation.
 
 - **🧩 Systems Migration Internship (Orchard Alliance)**  
-  Migrated legacy financial databases to cloud systems using SQL + Python + C.  
+  Migrated legacy financial databases to cloud systems using SQL, Python, and C.
   Coordinated weekly sprints across time zones and led User Acceptance Testing to align dev output with stakeholder intent.
 
 ### 💻 Junior Software Engineering and Indie Game Projects
