@@ -88,7 +88,7 @@ Whether you're looking for a one-time opportunity or a recurring place to serve,
 - Fully hosted in-browser for staff use - no local install or credentials required
 
 > Demo the live SOP app here:  
-> [**Springs Climbing Center - Operations Hub**](https://2rfr8h.csb.app/)
+> [**Springs Climbing Center - Operations Hub**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)
 
 This project merges front-end design, PowerShell backend logic, and technical writing, inspired by the precision and clarity of Stripe’s developer documentation; often cited as a gold standard in technical writing. It reflects my ongoing goal to achieve that same level of accessibility, elegance, and technical rigor in every interface I design or document.
 
