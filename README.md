@@ -76,21 +76,19 @@ Whether you're looking for a one-time opportunity or a recurring place to serve,
 
 ---
 
-### 💻 2025's Featured Project: SCC Finals Web App
+### 💻 2025 Featured Project: Battle of Brawn Competition System
 
-**Built for Springs Climbing Center**, this browser-based SOP hub documents and demonstrates event-ready automation scripts.
+**Built for Springs Climbing Center's 300+ competitor Battle of Brawn**, this web-based competition operations hub centralized tools needed to run scoring, finals, event timing, raffles, and staff workflows in real time.
 
-- React + TypeScript frontend with embedded PowerShell logic
-- Dynamic read-only viewers for scripts like
-  - 🧮 *Drawer Counter v2*
-  - 🧭 *Finals Projector*
-  - ⏱️ *Finals Timer v6.4* (Drift-Free + ±10 s Adjust + Audio Cues)
-- Fully hosted in-browser for staff use - no local install or credentials required
+- ⚡ **Finals Operations:** Live projector/scoring display and drift-resistant competition timer with audio cues
+- 🏆 **Citizens Scoring:** Python-assisted processing and ranking of Google Forms/Sheets competitor data
+- 🎟️ **Event Tools:** Raffle generator and PowerShell-based drawer reconciliation
+- 📋 **Staff Support:** Centralized onboarding, SOPs, and operational documentation
+- 🌐 **Deployment:** React + TypeScript application preserved in GitHub and deployed through GitHub Pages
 
-> Demo the live SOP app here:  
-> [**Springs Climbing Center - Operations Hub**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)
+> [**View the Live Battle of Brawn Competition System →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)
 
-This project merges front-end design, PowerShell backend logic, and technical writing, inspired by the precision and clarity of Stripe’s developer documentation; often cited as a gold standard in technical writing. It reflects my ongoing goal to achieve that same level of accessibility, elegance, and technical rigor in every interface I design or document.
+Built to reduce manual workload and system friction during a live climbing competition, allowing staff to spend less time managing tools and more time supporting competitors, spectators, and event operations.
 
 ---
 
