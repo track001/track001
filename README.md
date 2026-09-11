@@ -1,4 +1,4 @@
-# Hi, I’m Ti (Tiana) Schwarz 🌙
+# Hi, I’m Ti (Tiana) Schwarz 🌙☀️
 
 **Cyber Mission Analyst • Sustainment Test Engineer • Technical Writer • USAC L1 Routesetter & L2 Coach**
 
@@ -6,11 +6,22 @@
 
 I’m a computer science graduate working in cyber mission analysis and DoD systems, with a background in sustainment testing, automation, software development, and technical writing.
 
-A lot of the work I enjoy comes down to the same thing: **understanding a complicated system, making it work better, and making it easier for the next person to use.** That might mean documenting a cyber workflow, automating a repetitive process, building a tool for a climbing competition, or setting movement that helps an athlete learn something new.
+A lot of the work I enjoy comes down to the same thing: **understanding a complicated system, making it work better, and making it easier for the next person to use.**
 
 Outside of my technical career, climbing has grown into a second professional focus. I’m a USA Climbing L1 Routesetter and L2 Coach, with a particular interest in youth development, para climbing, accessible movement, and competition operations.
 
 This GitHub is a home for both sides of my work, along with the projects and resources I’ve built to help other people along the way.
+
+---
+
+### 🧭 Explore
+
+[**🛰️ Cyber & Mission Systems**](#️-cyber--mission-systems) •
+[**💻 Projects**](#-featured-projects) •
+[**🧗 Routesetting & Coaching**](#-routesetting--coaching) •
+[**🚀 Aerospace & STEM**](#-aerospace-stem--mentorship) •
+[**📚 Resources**](#-resources) •
+[**📄 Resumes**](#-resumes)
 
 ---
 
@@ -28,7 +39,12 @@ My work includes:
 - Supporting Operational Risk Assessments (ORAs), Asset Defense Plans (ADPs), and related mission products
 - Turning detailed technical findings into information that mission owners, engineers, and other stakeholders can actually use
 
-### 🛡️ Sustainment Cyber Test Engineering – MILSATCOM
+<details>
+<summary><strong>🛡️ Previous Cyber & Systems Experience</strong></summary>
+
+<br>
+
+### Sustainment Cyber Test Engineering – MILSATCOM
 
 Previously supported sustainment cybersecurity T&E for Space Systems Command MILSATCOM systems.
 
@@ -37,35 +53,32 @@ Previously supported sustainment cybersecurity T&E for Space Systems Command MIL
 - Authored DTPs, SOPs, test reports, and cybersecurity documentation
 - Worked across engineering, program, and government teams to make test results traceable and understandable
 
-### 🧩 Systems Migration
+### Systems Migration
 
 Before moving into defense work, I supported the migration of legacy financial systems to cloud infrastructure using SQL and Python.
 
 I also worked heavily in documentation and UAT, helping translate what stakeholders needed into something developers could build and test.
 
+</details>
+
 ---
 
 ## ✍️ Technical Writing, Software & Automation
 
-I like building things that are **immediately useful and makes things more efficient**.
+I like building things that are **immediately useful and make things more efficient**.
 
-Sometimes that means software. Sometimes it will be a PowerShell script, a SOP, or documentation that keeps people from having to ask the same question twice.
+Sometimes that means software. Sometimes it will be a PowerShell script, an SOP, or documentation that keeps people from having to ask the same question twice.
 
 Some of the areas I work in include:
 
-- PowerShell and Python automation
-- React + TypeScript
-- Cybersecurity testing and compliance tooling
-- Technical writing and SOP development
-- Front-end design and UX
-- Competition operations software
-- Git / GitHub and GitHub Pages
-- Unity and interactive application development
+`PowerShell` • `Python` • `React` • `TypeScript` • `SQL` • `Cybersecurity` • `Technical Writing` • `Git` • `GitHub Pages`
 
-One of my main design philosophies: work should not become harder to use just because the system behind it is complicated.
+One of my main design philosophies: **work should not become harder to use just because the system behind it is complicated.**
 
----
-### 📝 Technical Writing Quick Reference — In Development
+<details>
+<summary><strong>📝 Technical Writing Quick Reference — In Development</strong></summary>
+
+<br>
 
 I'm currently developing a quick-reference technical writing resource based on the kinds of writing patterns I use regularly in cyber mission analysis.
 
@@ -79,12 +92,19 @@ The goal is to give coworkers a fast place to reference things like:
 - Rephrasing overly long or unclear technical sentences
 - Common terminology used in cyber and mission-focused reporting
 
-While this isn't intended to replace any existing formal writing guidance or organizational standards. I enjoy writing guides that are meant to be a practical companion for the small writing questions that come up while actually drafting a technical product.
+This isn't intended to replace existing formal writing guidance or organizational standards. I enjoy writing guides that act as practical companions for the small writing questions that come up while actually drafting a technical product.
 
-I'm currently building the resource and plan to publish an unclassified version as a future project on my GitHub portfolio for easy accessibility.
+I'm currently building the resource and plan to publish an **unclassified version** as a future project on my GitHub portfolio for easy accessibility.
 
 **Technical Writing • Cyber Mission Analysis • Documentation • Knowledge Sharing**
-## 💻 Featured Project: Battle of Brawn Competition System
+
+</details>
+
+---
+
+# 💻 Featured Projects
+
+## 🏆 Battle of Brawn Competition System
 
 **Built for Springs Climbing Center's 300+ competitor Battle of Brawn**, this project grew out of tools I originally made to help staff run the competition more smoothly.
 
@@ -96,19 +116,47 @@ It now brings several competition and gym operations tools into one web-based sy
 - 📋 **Staff Support:** Onboarding information, SOPs, and operational documentation
 - 🌐 **Preservation:** React + TypeScript project maintained in GitHub and deployed through GitHub Pages
 
-> [**View the Battle of Brawn Competition System →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)
+[**View Live System →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)  
+[**View GitHub Repository →**](https://github.com/track001/Battle-of-Brawn-2025-Competition-System)
 
-None of these tools need to be complicated for the people using them. The goal is to take some of the repetitive work off staff so they can focus on running the event and taking care of competitors.
+**React • TypeScript • PowerShell • Python • GitHub Pages**
 
 ---
 
-## 🛠️ RGP / MySQL Front Desk Troubleshooting & SOP
+## 🐻 Bubby's Wayback Machine
+
+A personal digital archive built to preserve my sister's **282 published GameRant articles** in one searchable collection.
+
+The React frontend maps legacy GameRant article URLs to independently preserved HTML snapshots stored in Cloudflare R2, allowing the collection to remain browsable even when the original article references change or disappear.
+
+The archive includes:
+
+- 🔎 Searchable and filterable article browsing
+- 🗃️ 282 preserved article snapshots
+- 🔗 Legacy URL normalization and archive mapping
+- ☁️ Cloudflare R2 object storage
+- 📄 HTML downloads and print-ready exports
+- 🌐 Static deployment through GitHub Pages
+
+[**View Bubby's Wayback Machine →**](https://track001.github.io/Bubbys-Wayback-Machine/)  
+[**View GitHub Repository →**](https://github.com/track001/Bubbys-Wayback-Machine)
+
+**React • TypeScript • Cloudflare R2 • HTML • CSS • GitHub Pages**
+
+---
+
+### 🛠️ RGP / MySQL Front Desk Troubleshooting
 
 A smaller project that came out of an actual recurring problem at Springs Climbing Center: one of our Rock Gym Pro (RGP) front desk computers would intermittently lose its connection to the MySQL database hosted on the other workstation.
 
-While it originally started as troubleshooting, it quickly turned into a repeatable support process that necessitated writing a script that made things easier for the front desk staff. 
+What originally started as troubleshooting turned into a repeatable support process and a small PowerShell GUI helper designed so front desk staff wouldn't need to troubleshoot MySQL or Windows networking themselves.
 
-I worked through the host and client configuration, including:
+<details>
+<summary><strong>View technical details</strong></summary>
+
+<br>
+
+Troubleshooting included:
 
 - MySQL connectivity and port `3306`
 - Windows Firewall rules
@@ -117,13 +165,15 @@ I worked through the host and client configuration, including:
 - Host-to-client connectivity testing
 - RGP database connection behavior
 
-Because most front desk staff shouldn't need to troubleshoot MySQL or Windows networking, I also built a small **PowerShell GUI helper** that checks the important pieces and gives staff simpler instructions for restoring the connection.
+The PowerShell helper checks the important pieces and provides simpler instructions for restoring the connection.
 
-The troubleshooting process and temporary workarounds were then documented alongside our other SCC SOPs so the solution wasn't dependent on one person remembering how to fix it.
-
-> [**View the RGP / MySQL Workaround →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/#mysql/overview)
+The troubleshooting process and temporary workarounds were also documented alongside our other SCC SOPs so the solution wasn't dependent on one person remembering how to fix it.
 
 **PowerShell • MySQL • Windows Networking • DHCP • Firewall Configuration • Technical Documentation**
+
+</details>
+
+[**View the RGP / MySQL Workaround →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/#mysql/overview)
 
 ---
 
@@ -133,13 +183,9 @@ Climbing has been a large part of my life for years, but over time I’ve become
 
 I’m a **USA Climbing L1 Routesetter and L2 Coach**, currently setting commercially and coaching youth athletes at Springs Climbing Center.
 
-### 🌱 How I Like to Set
+I want my climbing to be challenging without being unnecessarily exclusive. I care about setting movement that is intentional, creative, and welcoming across different bodies and climbing styles.
 
-I want my climbing to be challenging without being unnecessarily exclusive.
-
-I’m still early in my routesetting career and have a lot to learn, but I care about setting movement that is intentional, creative, and welcoming across different bodies and climbing styles.
-
-I’m especially interested in:
+### Areas I'm especially interested in
 
 - Youth-friendly and developmentally appropriate movement
 - Para and adaptive climbing
@@ -150,9 +196,10 @@ I’m especially interested in:
 
 I’ve completed the **USAC / IFSC Para Routesetting Clinic** along with introductory and competition-focused routesetting clinics, and I hope to continue learning from setters and athletes with much more experience than me.
 
----
+<details>
+<summary><strong>♿ Para Climbing & Youth Development</strong></summary>
 
-## ♿ Para Climbing & Youth Development
+<br>
 
 Two areas I particularly want to keep learning about are **para climbing and youth development**.
 
@@ -162,9 +209,12 @@ My para routesetting education has also pushed me to think more carefully about 
 
 I don't expect to have all of those answers. I want to keep learning from para athletes, experienced setters, coaches, and the wider climbing community and let that influence the climbing I put on the wall.
 
----
+</details>
 
-## 🌸 Climbing Community
+<details>
+<summary><strong>🌸 Climbing Community & Competition Operations</strong></summary>
+
+<br>
 
 ### USA Climbing Coaching
 
@@ -199,9 +249,11 @@ I enjoy the behind-the-scenes work that makes a competition feel simple to the p
 
 I'm supported by **Escape Climbing** and appreciate the opportunity to represent a company whose work is closely tied to routesetters, climbing gyms, and the broader climbing community.
 
+</details>
+
 ---
 
-## 🚀 Aerospace, STEM & Mentorship
+# 🚀 Aerospace, STEM & Mentorship
 
 ### Colorado Space Business Roundtable
 
@@ -213,25 +265,52 @@ As an undergraduate, I received a Colorado Space Grant Consortium scholarship an
 
 Our prototype used multiple IMUs, Arduino-based sensing, microSD data logging, and MATLAB modeling. We presented the project at the COSGC Undergraduate Space Research Symposium, where it received **Best Design**.
 
-### Sharing What I've Learned
+<details>
+<summary><strong>🧠 Earlier Technical Projects</strong></summary>
+
+<br>
+
+### CragWeather CLI
+**Python • REST API • JSON**
+
+Combined weather and climbing-area data to generate forecasts for 60+ Colorado climbing areas.
+
+### SecureDMF GUI
+**AES • Python • Tkinter**
+
+Built tooling for encrypting and processing 10 GB+ federal datasets and automating recurring data retrieval.
+
+### IMU-OsteoSuit / A.R.E.S.
+**Arduino • MATLAB • Embedded Systems**
+
+Multi-IMU wearable research prototype for studying astronaut movement and loading conditions.
+
+### TechOdyssey
+**Ruby on Rails • Docker • CircleCI**
+
+Full-stack application developed with CI/CD practices and later self-hosted on a Raspberry Pi.
+
+### Smaller Automation Projects
+
+PowerShell utilities, Unity projects, JavaScript automation, TensorFlow experiments, and plenty of things I built simply because I wanted to figure out how they worked.
+
+</details>
+
+---
+
+# 📚 Resources
 
 I benefited from other people sharing notes, examples, templates, and advice when I was learning, so I try to leave some of mine behind too.
 
 That includes study resources, SOPs, documentation templates, code, and a public LaTeX resume template for students and early-career technical applicants.
 
----
-
-## 📚 UCCS CS Study Resources
+### 📚 UCCS CS Study Resources
 
 Public CS study resources from my time at UCCS, including networking and cybersecurity Quizlet sets:
 
-> https://quizlet.com/user/schwarztiana/sets
+[**View UCCS CS Study Sets →**](https://quizlet.com/user/schwarztiana/sets)
 
-Sharing them in case they make someone else's studying a little easier.
-
----
-
-## 📄 LaTeX Resume Template
+### 📄 LaTeX Resume Template
 
 I maintain a reusable LaTeX / Overleaf resume template for CS students, cybersecurity applicants, engineers, and other early-career technical roles.
 
@@ -244,73 +323,45 @@ It includes:
 - Easy customization
 
 > [**View / Copy Resume Template →**](https://www.overleaf.com/read/mdwcckpyqxxb#1f3aca)
+>
 > Open the template and select **Menu → Copy Project** to create your own editable copy.
 
 [![Overleaf Resume Template](https://img.shields.io/badge/Overleaf-Resume%20Template-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/read/mdwcckpyqxxb#1f3aca)
 
----
+### 🤝 Volunteering in Colorado Springs
 
-## 📄 Resumes
-
-I maintain separate resumes for my technical/cyber work and my work in climbing, coaching, and routesetting.
-
-### 🛰️ Cyber & Engineering
-
-Mission Analysis • Cybersecurity • Test Engineering • Automation • Technical Writing
-
-[**Preview Technical Resume →**](./resumes/Tiana-Schwarz-Technical-Resume.pdf)
-
-[**Download Technical Resume ↓**](https://raw.githubusercontent.com/track001/track001/main/resumes/Tiana-Schwarz-Technical-Resume.pdf)
-
-### 🧗 Routesetting & Coaching
-
-USAC L1 Routesetting • L2 Coaching • Competition Operations • Para & Youth Climbing
-
-[**Preview Routesetting Resume →**](./resumes/Tiana-Schwarz-Routesetting-Resume.pdf)
-
-[**Download Routesetting Resume ↓**](https://raw.githubusercontent.com/track001/track001/main/resumes/Tiana-Schwarz-Routesetting-Resume.pdf)
-
----
-
-## 🤝 Volunteering in Colorado Springs
-
-I also maintain a collection of volunteer opportunities and community organizations around Colorado Springs that I've researched, volunteered with, or recommend.
+I maintain a collection of volunteer opportunities and community organizations around Colorado Springs that I've researched, volunteered with, or recommend.
 
 It focuses primarily on homelessness, healthcare access, food insecurity, and support for older adults.
 
-> [**Volunteering in Colorado Springs →**](https://github.com/track001/VolunteeringinCOS)
+[**Explore Volunteering in Colorado Springs →**](https://github.com/track001/VolunteeringinCOS)
 
 ---
 
-## 🧠 Earlier Projects
+# 📄 Resumes
 
-Some of the projects that helped me learn by building:
+I maintain separate resumes for my technical/cyber work and my work in climbing, coaching, and routesetting.
 
-- **CragWeather CLI — Python / REST API / JSON**  
-  Combined weather and climbing-area data to generate forecasts for 60+ Colorado climbing areas.
-
-- **SecureDMF GUI — AES / Python / Tkinter**  
-  Built tooling for encrypting and processing 10 GB+ federal datasets and automating recurring data retrieval.
-
-- **IMU-OsteoSuit / A.R.E.S. — Arduino / MATLAB / Embedded Systems**  
-  Multi-IMU wearable research prototype for studying astronaut movement and loading conditions.
-
-- **TechOdyssey — Ruby on Rails / Docker / CircleCI**  
-  Full-stack application developed with CI/CD practices and later self-hosted on a Raspberry Pi.
-
-- **Smaller Automation Projects**  
-  PowerShell utilities, Unity projects, JavaScript automation, TensorFlow experiments, and plenty of things I built simply because I wanted to figure out how they worked.
+| 🛰️ Cyber & Engineering | 🧗 Routesetting & Coaching |
+| :--- | :--- |
+| Mission Analysis • Cybersecurity • Test Engineering • Automation • Technical Writing | USAC L1 Routesetting • L2 Coaching • Competition Operations • Para & Youth Climbing |
+| [**Preview Resume →**](./resumes/Tiana-Schwarz-Technical-Resume.pdf) | [**Preview Resume →**](./resumes/Tiana-Schwarz-Routesetting-Resume.pdf) |
+| [**Download ↓**](https://raw.githubusercontent.com/track001/track001/main/resumes/Tiana-Schwarz-Technical-Resume.pdf) | [**Download ↓**](https://raw.githubusercontent.com/track001/track001/main/resumes/Tiana-Schwarz-Routesetting-Resume.pdf) |
 
 ---
 
-## 🔗 Connect
+# 🔗 Connect
 
-- [**LinkedIn**](https://www.linkedin.com/in/tschwarz001/) — Professional experience
-- [**GitHub**](https://github.com/track001) — Projects, automation, and documentation
-- [**Linktree**](https://linktr.ee/tischwarz) — Climbing, projects, and other links
-- [**8a.nu**](https://www.8a.nu/user/ti-schwarz) — My climbing logbook
-- [**Battle of Brawn Competition System**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/) — Live project
+[**LinkedIn**](https://www.linkedin.com/in/tschwarz001/) •
+[**GitHub**](https://github.com/track001) •
+[**Linktree**](https://linktr.ee/tischwarz) •
+[**8a.nu**](https://www.8a.nu/user/ti-schwarz)
+
+### Live Projects
+
+[**Battle of Brawn Competition System →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)  
+[**Bubby's Wayback Machine →**](https://track001.github.io/Bubbys-Wayback-Machine/)
 
 ---
 
-> *“The pursuit of today.”*
+> *“The pursuit of today.”* 🌙☀️
