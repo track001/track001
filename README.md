@@ -1,4 +1,4 @@
-# Hi, I’m Ti (Tiana) Schwarz 🌙☀️
+# Hi, I’m Ti (Tiana) Schwarz 🌙
 
 **Cyber Mission Analyst • Sustainment Test Engineer • Technical Writer • USAC L1 Routesetter & L2 Coach**
 
