@@ -47,9 +47,9 @@ I also worked heavily in documentation and UAT, helping translate what stakehold
 
 ## ✍️ Technical Writing, Software & Automation
 
-I like building things that are **useful first**.
+I like building things that are **immediately useful and makes things more efficient**.
 
-Sometimes that means writing software. Sometimes the better solution is a PowerShell script, an SOP, a spreadsheet, or documentation that keeps someone from having to ask the same question twice.
+Sometimes that means software. Sometimes it will be a PowerShell script, a SOP, or documentation that keeps people from having to ask the same question twice.
 
 Some of the areas I work in include:
 
@@ -65,7 +65,25 @@ Some of the areas I work in include:
 One of my main design philosophies: work should not become harder to use just because the system behind it is complicated.
 
 ---
+### 📝 Technical Writing Quick Reference — In Development
 
+I'm currently developing a quick-reference technical writing resource based on the kinds of writing patterns I use regularly in cyber mission analysis.
+
+The goal is to give coworkers a fast place to reference things like:
+
+- Structuring observations, findings, and mission impacts
+- Writing clear vulnerability and risk statements
+- Corrective action recommendation language
+- Transition words and technical sentence structure
+- Acronym and capitalization conventions
+- Rephrasing overly long or unclear technical sentences
+- Common terminology used in cyber and mission-focused reporting
+
+While this isn't intended to replace any existing formal writing guidance or organizational standards. I enjoy writing guides that are meant to be a practical companion for the small writing questions that come up while actually drafting a technical product.
+
+I'm currently building the resource and plan to publish an unclassified version as a future project on my GitHub portfolio for easy accessibility.
+
+**Technical Writing • Cyber Mission Analysis • Documentation • Knowledge Sharing**
 ## 💻 Featured Project: Battle of Brawn Competition System
 
 **Built for Springs Climbing Center's 300+ competitor Battle of Brawn**, this project grew out of tools I originally made to help staff run the competition more smoothly.
@@ -81,6 +99,31 @@ It now brings several competition and gym operations tools into one web-based sy
 > [**View the Battle of Brawn Competition System →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)
 
 None of these tools need to be complicated for the people using them. The goal is to take some of the repetitive work off staff so they can focus on running the event and taking care of competitors.
+
+---
+
+## 🛠️ RGP / MySQL Front Desk Troubleshooting & SOP
+
+A smaller project that came out of an actual recurring problem at Springs Climbing Center: one of our Rock Gym Pro (RGP) front desk computers would intermittently lose its connection to the MySQL database hosted on the other workstation.
+
+While it originally started as troubleshooting, it quickly turned into a repeatable support process that necessitated writing a script that made things easier for the front desk staff. 
+
+I worked through the host and client configuration, including:
+
+- MySQL connectivity and port `3306`
+- Windows Firewall rules
+- DHCP and local IP addressing
+- Ethernet vs. Wi-Fi interface configuration
+- Host-to-client connectivity testing
+- RGP database connection behavior
+
+Because most front desk staff shouldn't need to troubleshoot MySQL or Windows networking, I also built a small **PowerShell GUI helper** that checks the important pieces and gives staff simpler instructions for restoring the connection.
+
+The troubleshooting process and temporary workarounds were then documented alongside our other SCC SOPs so the solution wasn't dependent on one person remembering how to fix it.
+
+> [**View the RGP / MySQL Workaround →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)
+
+**PowerShell • MySQL • Windows Networking • DHCP • Firewall Configuration • Technical Documentation**
 
 ---
 
