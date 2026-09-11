@@ -247,6 +247,7 @@ It includes:
 > Open the template and select **Menu → Copy Project** to create your own editable copy.
 
 [![Overleaf Resume Template](https://img.shields.io/badge/Overleaf-Resume%20Template-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/read/mdwcckpyqxxb#1f3aca)
+
 ---
 
 ## 📄 Resumes
