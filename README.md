@@ -121,7 +121,7 @@ Because most front desk staff shouldn't need to troubleshoot MySQL or Windows ne
 
 The troubleshooting process and temporary workarounds were then documented alongside our other SCC SOPs so the solution wasn't dependent on one person remembering how to fix it.
 
-> [**View the RGP / MySQL Workaround →**](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/)
+> [**View the RGP / MySQL Workaround →**]([https://track001.github.io/Battle-of-Brawn-2025-Competition-System/](https://track001.github.io/Battle-of-Brawn-2025-Competition-System/#mysql/overview))
 
 **PowerShell • MySQL • Windows Networking • DHCP • Firewall Configuration • Technical Documentation**
 
