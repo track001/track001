@@ -2,7 +2,7 @@
 
 **Cyber Mission Analyst • Sustainment Test Engineer • Technical Writer • USAC L1 Routesetter & L2 Coach**
 
-![Ti climbing outside](articlephoto_climbing1.jpg)
+tiana-schwarz-github-banner.png
 
 I’m a computer science graduate working in cyber mission analysis and DoD systems, with a background in sustainment testing, automation, software development, and technical writing.
 
